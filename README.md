@@ -11,7 +11,7 @@
 <p align="center">
   <img src="bloc_apropos.gif" alt="À propos de moi" width="900"> 
 </p>
----
+
 
 ## 🛠️ Stack Technique
 
