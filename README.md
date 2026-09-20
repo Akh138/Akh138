@@ -9,18 +9,20 @@
 ---
 
 <p align="center">
-  <img src="titre_apropos.png" width="300"> 
-  <!-- (Si tu n'as pas fait l'image, tu peux effacer la ligne du dessus et garder le texte "## 🚀 À propos de moi") -->
+  <img src="titre_apropos.png" alt="À propos de moi" width="500">
 </p>
 
-> ### 🚀 Profil & Parcours
-> 
-> Développeur Junior passionné par le développement d'applications logicielles et l'univers du jeu vidéo. 
-> Fraîchement diplômé en **Développement Web et Web Mobile (DWWM)**, j'apporte une double compétence unique grâce à mon parcours en **Animation 3D/2D** (Blender, Maya, Unreal Engine).
-> 
-> Cette combinaison me permet d'appréhender le développement non seulement sous l'angle de la logique pure (**Algorithmes, POO, Architecture Java**), mais aussi avec une sensibilité forte pour le rendu visuel et l'expérience utilisateur (**UI/UX, Pipeline Artistique**).
-> 
-> 🎯 **Objectif actuel :** En recherche active d'une **alternance** pour mettre ma polyvalence au service d'une équipe technique ambitieuse.
+<div style="background: linear-gradient(135deg, rgba(13, 17, 23, 0.95) 0%, rgba(22, 27, 34, 0.95) 100%); border: 1px solid #00D4FF; border-radius: 12px; padding: 25px; box-shadow: 0 0 20px rgba(0, 212, 255, 0.15); color: #c9d1d9;">
+
+  <h3 style="color: #00D4FF; margin-top: 0;">🚀 Profil & Parcours</h3>
+  
+  <p>Développeur Junior passionné par le développement d'applications logicielles et l'univers du jeu vidéo. Fraîchement diplômé en <b>Développement Web et Web Mobile (DWWM)</b>, j'apporte une double compétence unique grâce à mon parcours en <b>Animation 3D/2D</b> (Blender, Maya, Unreal Engine).</p>
+  
+  <p>Cette combinaison me permet d'appréhender le développement non seulement sous l'angle de la logique pure (<b>Algorithmes, POO, Architecture Java</b>), mais aussi avec une sensibilité forte pour le rendu visuel et l'expérience utilisateur (<b>UI/UX, Pipeline Artistique</b>).</p>
+  
+  <p>🎯 <b>Objectif actuel :</b> En recherche active d'une <b>alternance</b> pour mettre ma polyvalence au service d'une équipe technique ambitieuse.</p>
+
+</div>
 
 ---
 
