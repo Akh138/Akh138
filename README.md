@@ -20,10 +20,38 @@
 
 ---
 
-## 🎮 Projet Phare : Fighting-Space
-Un moteur de jeu 2D multijoueur local complet développé en **Java**.
 
-* **Architecture :** Pattern MVC, gestionnaire de collisions optimisé, système d'IA autonome.
-* **Technique :** Intégration de manettes (Jamepad/SDL2), Audio Manager asynchrone, tests unitaires JUnit 5.
 
-[👉 Voir le projet Fighting-Space](https://github.com/Akh138/Fighting-Space)
+<p align="center">
+  <img src="titre_projets.png" alt="Mes Projets Phares" width="500">
+  <!-- (Si tu n'as pas de titre en image Canva, utilise : ## 📂 Mes Projets Phares) -->
+</p>
+
+### 🌌 Fighting-Space (Moteur de Jeu 2D & IA)
+Un moteur de jeu de combat spatial multijoueur local (PvPvE) développé de zéro en **Java pur (Swing/AWT)**.
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Points techniques clés :</b><br>
+      <ul>
+        <li><b>Architecture :</b> Pattern MVC, Singleton (Audio), Flyweight (Optimisation mémoire).</li>
+        <li><b>Algorithmes :</b> IA autonome de poursuite vectorielle (Trigonométrie).</li>
+        <li><b>Hardware :</b> Intégration Jamepad (C++/SDL2) pour le support manette Xbox/PS.</li>
+        <li><b>Tests :</b> Couverture de la logique métier avec <i>JUnit 5</i>.</li>
+      </ul>
+      <br>
+      <a href="https://github.com/Akh138/Fighting-Space">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <!-- Remplacer le lien de l'image par un vrai gif/screen du jeu plus tard si possible -->
+      <img src="https://github.com/Akh138/Fighting-Space/raw/main/screen_combat.png" alt="Aperçu Fighting Space" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 🃏 PokeTCG-Project (Gestionnaire de Collection)
+*(En cours de nettoyage...)* L'application web de gestion de cartes à jouer interactives.
+<!-- La structure du tableau viendra ici quand le projet sera prêt ! -->
