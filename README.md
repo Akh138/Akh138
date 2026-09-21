@@ -24,28 +24,13 @@
 
 ---
 
-<p align="center">
-  <img src="titre_projets.gif" width="400">
-</p>
+### <img src="titre_projets.gif" height="35" align="left">
 
-### 🌌 Fighting-Space (Moteur de Jeu 2D & IA)
-Un moteur de jeu de combat spatial multijoueur local (PvPvE) développé de zéro en **Java pur (Swing/AWT)**.
+<br><br>
 
-<p align="center">
-  <img src="screen_jeu.png" width="800">
-</p>
-
-**Points techniques clés :**
-* 🏗️ **Architecture :** Pattern MVC, Singleton (Audio), Flyweight (Optimisation mémoire).
-* 🧠 **Algorithmes :** IA autonome de poursuite vectorielle (Trigonométrie).
-* 🎮 **Hardware :** Intégration Jamepad (C++/SDL2) pour le support manette Xbox/PS.
-* 🧪 **Tests :** Couverture de la logique métier avec *JUnit 5*.
-
-<p align="center">
-  <a href="https://github.com/Akh138/Fighting-Space">
-    <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">
-  </a>
-</p>
+| 🌌 Fighting-Space (Moteur 2D & IA) | Aperçu |
+| :--- | :---: |
+| Un moteur de combat spatial multijoueur local (PvPvE) en **Java pur (Swing/AWT)**.<br><br>• 🏗️ **Architecture :** MVC, Singleton, Flyweight.<br>• 🧠 **Algorithmes :** IA de poursuite (Trigonométrie).<br>• 🎮 **Hardware :** Jamepad (C++/SDL2) pour manettes.<br>• 🧪 **Tests :** Couverture logique via *JUnit 5*.<br><br>[<img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">](https://github.com/Akh138/Fighting-Space) | <img src="screen_jeu.png" width="350"> |
 
 ---
 
