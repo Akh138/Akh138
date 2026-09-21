@@ -23,8 +23,7 @@
 
 
 <p align="center">
-  <img src="titre_projets.png" alt="Mes Projets Phares" width="500">
-  <!-- (Si tu n'as pas de titre en image Canva, utilise : ## 📂 Mes Projets Phares) -->
+  <img src="titre_projets.gif" alt="Mes Projets Phares" width="500">
 </p>
 
 ### 🌌 Fighting-Space (Moteur de Jeu 2D & IA)
