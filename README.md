@@ -9,13 +9,13 @@
 ---
 
 <p align="center">
-  <img src="bloc_apropos.png" alt="À propos de moi" width="900">
+  <img src="bloc_apropos.gif" alt="À propos de moi" width="900">
 </p>
 
 ---
 
 <p align="center">
-  <img src="bloc_stack.png" alt="Ma Stack Technique" width="900">
+  <img src="bloc_stack.gif" alt="Ma Stack Technique" width="900">
 </p>
 
 ---
