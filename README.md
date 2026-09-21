@@ -22,35 +22,32 @@
 
 
 
+---
+
 <p align="center">
-  <img src="titre_projets.gif" alt="Mes Projets Phares" width="500">
+  <img src="titre_projets.gif" width="400">
 </p>
 
 ### 🌌 Fighting-Space (Moteur de Jeu 2D & IA)
 Un moteur de jeu de combat spatial multijoueur local (PvPvE) développé de zéro en **Java pur (Swing/AWT)**.
 
-<table>
-  <tr>
-    <td width="50%">
-      <b>Points techniques clés :</b><br>
-      <ul>
-        <li><b>Architecture :</b> Pattern MVC, Singleton (Audio), Flyweight (Optimisation mémoire).</li>
-        <li><b>Algorithmes :</b> IA autonome de poursuite vectorielle (Trigonométrie).</li>
-        <li><b>Hardware :</b> Intégration Jamepad (C++/SDL2) pour le support manette Xbox/PS.</li>
-        <li><b>Tests :</b> Couverture de la logique métier avec <i>JUnit 5</i>.</li>
-      </ul>
-      <br>
-      <a href="https://github.com/Akh138/Fighting-Space">
-        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">
-      </a>
-    </td>
-    <td width="50%">
-      <!-- Remplacer le lien de l'image par un vrai gif/screen du jeu plus tard si possible -->
-      <img src="https://github.com/Akh138/Fighting-Space/raw/main/screen_combat.png" alt="Aperçu Fighting Space" width="100%">
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="screen_jeu.png" width="800">
+</p>
+
+**Points techniques clés :**
+* 🏗️ **Architecture :** Pattern MVC, Singleton (Audio), Flyweight (Optimisation mémoire).
+* 🧠 **Algorithmes :** IA autonome de poursuite vectorielle (Trigonométrie).
+* 🎮 **Hardware :** Intégration Jamepad (C++/SDL2) pour le support manette Xbox/PS.
+* 🧪 **Tests :** Couverture de la logique métier avec *JUnit 5*.
+
+<p align="center">
+  <a href="https://github.com/Akh138/Fighting-Space">
+    <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">
+  </a>
+</p>
+
+---
 
 ### 🃏 PokeTCG-Project (Gestionnaire de Collection)
 *(En cours de nettoyage...)* L'application web de gestion de cartes à jouer interactives.
-<!-- La structure du tableau viendra ici quand le projet sera prêt ! -->
