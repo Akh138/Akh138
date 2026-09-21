@@ -24,9 +24,9 @@
 
 ---
 
-<p align="center">
+<div align="center">
   <img src="titre_projets.gif" width="400">
-</p>
+</div>
 
 | 🌌 Fighting-Space (Moteur 2D & IA) | Aperçu |
 | :--- | :---: |
