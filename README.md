@@ -21,7 +21,9 @@
 ---
 ---
 
-<img src="titre_projets.gif" width="400">
+<div align="center">
+  <img src="titre_projets.gif" alt="Mes Projets Phares" width="300">
+</div>
 
 | 🌌 Fighting-Space (Moteur 2D & IA) | Aperçu |
 | :--- | :---: |
