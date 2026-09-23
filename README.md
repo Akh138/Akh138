@@ -52,7 +52,7 @@ Plateforme de trading de cartes Pokémon distribuée en **Microservices** (Java,
       </a>
     </td>
     <td width="50%">
-      <img src="https://github.com/Akh138/pokedex.png" alt="Aperçu PokeTCG" width="100%">
+      <img src="pokedex.png" alt="Aperçu PokeTCG" width="100%">
     </td>
   </tr>
 </table>
