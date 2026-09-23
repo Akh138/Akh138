@@ -21,31 +21,46 @@
 ---
 ---
 
-<div align="center">
-  <img src="titre_projets.gif" alt="Mes Projets Phares" width="300">
-</div>
-
-| 🌌 Fighting-Space (Moteur 2D & IA) | Aperçu |
-| :--- | :---: |
-| Un moteur de combat spatial multijoueur local (PvPvE) en **Java pur (Swing/AWT)**.<br><br>• 🏗️ **Architecture :** MVC, Singleton, Flyweight.<br>• 🧠 **Algorithmes :** IA de poursuite (Trigonométrie).<br>• 🎮 **Hardware :** Jamepad (C++/SDL2) pour manettes.<br>• 🧪 **Tests :** Couverture logique via *JUnit 5*.<br><br>[<img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">](https://github.com/Akh138/Fighting-Space) | <img src="screen_jeu.png" width="350"> |
+<p align="center">
+  <img src="titre_projets.gif" width="400"> 
+</p>
 
 ---
 
----
-| 🃏 PokeTCG-Project (Marketplace & Pokedex) | Aperçu |
+### 🌌 Fighting-Space (Moteur de Jeu 2D & IA)
+<table>
+  <tr>
+    <td width="50%">
+      Un moteur de combat spatial multijoueur local (PvPvE) développé de zéro en <b>Java pur (Swing/AWT)</b>.
+      <ul>
+        <li>🏗️ <b>Architecture :</b> MVC, Singleton, Flyweight.</li>
+        <li>🧠 <b>Algorithmes :</b> IA de poursuite (Trigonométrie).</li>
+        <li>🎮 <b>Hardware :</b> Intégration Jamepad (C++/SDL2) pour manettes.</li>
+        <li>🧪 <b>Tests :</b> Couverture logique via <i>JUnit 5</i>.</li>
+      </ul>
+      <a href="https://github.com/Akh138/Fighting-Space">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Fighting--Space-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="screen_jeu.png" alt="Aperçu Fighting Space" width="100%">
+    </td>
+  </tr>
+</table>
+
+### 🃏 PokeTCG-Project (Marketplace & Pokedex)
 Plateforme de trading de cartes Pokémon distribuée en **Microservices** (Java, Spring Cloud, Docker).
 
 <table>
   <tr>
     <td width="50%">
-      <b>Points techniques clés :</b><br>
+      <b>Points techniques clés :</b>
       <ul>
-        <li><b>Architecture :</b> Microservices indépendants avec passerelle API.</li>
-        <li><b>Données :</b> Persistance polyglotte (MySQL pour le financier, MongoDB pour le catalogue).</li>
-        <li><b>Sécurité :</b> Authentification JWT, Spring Security, BCrypt.</li>
-        <li><b>Déploiement :</b> Conteneurisation Docker & Docker Compose.</li>
+        <li>🏗️ <b>Architecture :</b> Microservices indépendants avec passerelle API.</li>
+        <li>💾 <b>Données :</b> Persistance polyglotte (MySQL pour le financier, MongoDB pour le catalogue).</li>
+        <li>🛡️ <b>Sécurité :</b> Authentification JWT, Spring Security, BCrypt.</li>
+        <li>🐳 <b>Déploiement :</b> Conteneurisation Docker & Docker Compose.</li>
       </ul>
-      <br>
       <a href="https://github.com/Akh138/PokeTCG-Project">
         <img src="https://img.shields.io/badge/👉_Voir_le_code_source-PokeTCG--Project-blue?style=for-the-badge&logo=github">
       </a>
