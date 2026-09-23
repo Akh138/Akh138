@@ -32,8 +32,8 @@
 ---
 
 ---
-
-### 🃏 PokeTCG-Project (Marketplace & Pokedex)
+| 🃏 PokeTCG-Project (Marketplace & Pokedex) | Aperçu |
+| :--- | :---: |
 Plateforme de trading de cartes Pokémon distribuée en **Microservices** (Java, Spring Cloud, Docker).
 
 <table>
