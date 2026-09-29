@@ -70,3 +70,27 @@ Plateforme de trading de cartes Pokémon distribuée en **Microservices** (Java,
     </td>
   </tr>
 </table>
+
+### 🔱 Poseidon (Trading Desk & Risk Management)
+Plateforme financière distribuée de négociation d'ordres et gestion des risques en **Microservices** (Java 17, Spring Boot 3, Spring Cloud, Docker).
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Points techniques clés :</b>
+      <ul>
+        <li>🏗️ <b>Architecture :</b> Écosystème de 11 conteneurs orchestrés avec API Gateway et Service Discovery (HashiCorp Consul).</li>
+        <li>⚙️ <b>Configuration :</b> Serveur centralisé (Spring Cloud Config) relié à un dépôt GitHub dédié.</li>
+        <li>🛡️ <b>Sécurité & RBAC :</b> Authentification Spring Security, chiffrement BCrypt et contrôle d'accès Trader vs Superviseur (Erreur 403).</li>
+        <li>⚡ <b>Résilience :</b> Pattern Circuit Breaker (Resilience4j) avec fallback pour garantir la haute disponibilité.</li>
+        <li>💾 <b>Données :</b> Persistance polyglotte (MySQL 8.0 pour les comptes, H2 in-memory pour la vélocité des cotations).</li>
+      </ul>
+      <a href="https://github.com/Akh138/PoseidonApplication">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-PoseidonApplication-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="screen_poseidon.png" alt="Aperçu Poseidon Trading Desk" width="100%">
+    </td>
+  </tr>
+</table>
