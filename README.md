@@ -94,3 +94,27 @@ Plateforme financière distribuée de négociation d'ordres et gestion des risqu
     </td>
   </tr>
 </table>
+
+### 🏥 Healthcare (Gestion Médicale & Dossier Clinique)
+Solution clinique complète distribuée en **Microservices** avec interface haute définition en **Glassmorphism** (Java 17, Spring Boot 3, MongoDB, MySQL, Docker).
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Points techniques clés :</b>
+      <ul>
+        <li>🏗️ <b>Architecture :</b> Écosystème de 8 conteneurs avec Service Discovery (HashiCorp Consul) et Config Server centralisé.</li>
+        <li>💾 <b>Persistance Hybride :</b> Stockage polyglotte (MySQL 8.0 pour les patients/comptes, MongoDB pour les notes cliniques NoSQL).</li>
+        <li>💎 <b>Design System :</b> Interface sur-mesure en Glassmorphism (CSS3 modulaire, filtres en temps réel Vanilla JS, responsive).</li>
+        <li>🛡️ <b>Sécurité & Rôles :</b> Authentification Spring Security 6, chiffrement BCrypt et séparation des espaces Praticien / Admin.</li>
+        <li>🧪 <b>Qualité & Résilience :</b> Communication déclarative OpenFeign avec mécanismes de secours (Fallbacks).</li>
+      </ul>
+      <a href="https://github.com/Akh138/healthcare-project">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-Healthcare--Project-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="screen_healthcare.png" alt="Aperçu Healthcare Platform" width="100%">
+    </td>
+  </tr>
+</table>
