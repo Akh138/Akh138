@@ -8,9 +8,13 @@
 
 ---
 
-<p align="center">
-  <img src="bloc_apropos.gif" alt="À propos de moi" width="900">
-</p>
+### 👤 À propos de moi
+
+> 🚀 **Développeur Junior** passionné par le développement d'applications logicielles et l'univers du jeu vidéo. Fraîchement diplômé en **Développement Web et Web Mobile (DWWM)**, j'apporte une double compétence unique grâce à mon parcours en **Animation 3D / 2D**.
+>
+> 🧠 Cette combinaison me permet d'appréhender le développement sous l'angle de la logique pure (**POO, Architecture Logicielle**), mais aussi avec une sensibilité forte pour le rendu visuel et l'expérience utilisateur (**UI/UX, Pipeline Artistique**).
+>
+> 🎯 **Objectif actuel :** En recherche active d'une **alternance** pour mettre ma polyvalence au service d'une équipe technique ambitieuse.
 
 ---
 
