@@ -141,8 +141,9 @@ Application mobile native de commande et livraison de repas (Java 11, Android SD
         <img src="https://img.shields.io/badge/👉_Voir_le_code_source-FastFoodEat-blue?style=for-the-badge&logo=github">
       </a>
     </td>
-    <td width="50%">
-      <img src="screen_fastfood.png" alt="Aperçu FastFoodEat" width="100%">
+    <td width="50%" align="center">
+      <img src="screen_fastfood_home.png" width="47%" alt="Restaurants FastFoodEat">&nbsp;
+      <img src="screen_fastfood.png" width="47%" alt="Menu FastFoodEat">
     </td>
   </tr>
 </table>
