@@ -122,3 +122,27 @@ Solution clinique complète distribuée en **Microservices** avec interface haut
     </td>
   </tr>
 </table>
+
+### 🍔 FastFoodEat (Application Mobile Android)
+Application mobile native de commande et livraison de repas (Java 11, Android SDK 35, Glide, Gson, Parcelable).
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Points techniques clés :</b>
+      <ul>
+        <li>📱 <b>Mobile Natif :</b> Architecture Android SDK (Java 11, Target SDK 35) avec rendu adaptatif sous <i>RecyclerView</i> et <i>CardView</i>.</li>
+        <li>⚡ <b>Performance Mémoire :</b> Sérialisation binaire optimisée via <i>Parcelable</i> pour le transfert d'objets entre Activités.</li>
+        <li>🖼️ <b>Pipeline Médias :</b> Chargement asynchrone des visuels distants et mise en cache mémoire/disque avec <i>Glide 4</i>.</li>
+        <li>📦 <b>Ingestion de Données :</b> Désérialisation et parsing fluide du catalogue JSON avec <i>Google Gson</i>.</li>
+        <li>🛒 <b>Tunnel de Commande Réactif :</b> Découplage par Callback Listeners, bascule Delivery/Pickup et dialogue de succès animé.</li>
+      </ul>
+      <a href="https://github.com/Akh138/FastFoodEat">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-FastFoodEat-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="screen_fastfood.png" alt="Aperçu FastFoodEat" width="100%">
+    </td>
+  </tr>
+</table>
