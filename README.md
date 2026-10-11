@@ -147,3 +147,27 @@ Application mobile native de commande et livraison de repas (Java 11, Android SD
     </td>
   </tr>
 </table>
+
+### 🎬 MARS.IA (Festival du Court-Métrage par IA)
+Plateforme web événementielle Fullstack dédiée aux créations cinématographiques générées par Intelligence Artificielle (React 18, Node.js, Express, MySQL, JWT, Tailwind CSS).
+
+<table>
+  <tr>
+    <td width="50%">
+      <b>Points techniques clés :</b>
+      <ul>
+        <li>🌐 <b>Fullstack JavaScript :</b> SPA réactive sous <i>React 18</i> / <i>Vite</i> et API RESTful modulaire sous <i>Node.js / Express</i>.</li>
+        <li>🔐 <b>Sécurité & RBAC :</b> Authentification sans état par jetons <i>JWT</i>, hachage <i>BCrypt</i> et gestion de 4 rôles (Public, Réalisateur, Jury, Admin).</li>
+        <li>💾 <b>Persistance Relationnelle :</b> Schéma MySQL 8.0 optimisé avec <i>Connection Pooling</i> et indexation des requêtes critiques.</li>
+        <li>📤 <b>Gestion Médias :</b> Pipeline d'upload de vidéos de court-métrage avec <i>Multer</i> et association N:M des outils d'IA utilisés (Runway, Sora, Midjourney).</li>
+        <li>✨ <b>Expérience Immersive :</b> Design cyberpunk sous <i>Tailwind CSS</i>, lecteur vidéo d'arrière-plan et animations cinématiques <i>GSAP</i>.</li>
+      </ul>
+      <a href="https://github.com/Akh138/FESTIVAL_MARSIA">
+        <img src="https://img.shields.io/badge/👉_Voir_le_code_source-FESTIVAL__MARSIA-blue?style=for-the-badge&logo=github">
+      </a>
+    </td>
+    <td width="50%">
+      <img src="screen_marsia.png" alt="Aperçu Festival Mars.IA" width="100%">
+    </td>
+  </tr>
+</table>
